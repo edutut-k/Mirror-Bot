@@ -433,7 +433,7 @@ CPU: {cpu}% | RAM: {mem}%
 Disk: {total} | Free: {free}
 Used: {used} [{disk}%]
 
-Made with ❤️ by Kevin
+Made with ❤️ by Kevin-A112
 """
     return stats
 
